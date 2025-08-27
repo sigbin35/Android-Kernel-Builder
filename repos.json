@@ -8,8 +8,8 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/ravindu644/Android-Kernel-Tutorials/tree/main/toolchains",
-        "branch": "main",
+        "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-4.9",
+        "branch": "master",
         "name": "aarch64-linux-android-4.9"
       },
       {

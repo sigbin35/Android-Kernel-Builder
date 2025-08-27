@@ -5,7 +5,7 @@
       "branch": "main",
       "device": "c2q"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/ravindu644/Android-Kernel-Tutorials/tree/main/toolchains",

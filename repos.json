@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
+      "name": "android_device_samsung_c2q_stock_kernel",
       "repo": "https://github.com/sigbin35/android_device_samsung_c2q_stock_kernel",
       "branch": "main",
       "device": "c2q"
